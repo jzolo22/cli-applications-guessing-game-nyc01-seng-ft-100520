@@ -7,8 +7,8 @@ end
   
   
 def run_guessing_game
-  guess_prompt
   random_number = rand(6) + 1
+  puts "Type a number between 1 and 6."
   user_guess = gets.chomp
   if random_number == user_guess
     puts "You guessed the correct number!"
