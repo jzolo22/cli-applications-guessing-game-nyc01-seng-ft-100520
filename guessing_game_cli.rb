@@ -1,9 +1,9 @@
 # Code your solution here!
 
 
-def guess_prompt
-  puts "Type a number between 1 and 6."
-end
+# def guess_prompt
+#   puts "Type a number between 1 and 6."
+# end
   
   
 def run_guessing_game
